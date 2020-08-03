@@ -1,0 +1,2 @@
+# StopWatchTool
+Windows向け超簡易ストップウォッチツール
